@@ -1,0 +1,11 @@
+.styled-header {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24pt;
+    font-weight: normal;
+    font-style: italic;
+    text-decoration: underline;
+    text-transform: uppercase;
+    letter-spacing: 20em;
+    word-spacing: 1em;
+    text-align: center;
+}
